@@ -17,5 +17,7 @@ public class JenkinsRunner implements ApplicationRunner {
         System.out.println("새로운 버전 SNAPSHOT-1.0.1 도 배포했다고");
 
         System.out.println("아니 push만 해도 배포가 된다고?");
+
+        System.out.println("PR로도 자동 빌드 통합이 됨?");
     }
 }
