@@ -21,5 +21,7 @@ public class JenkinsRunner implements ApplicationRunner {
         System.out.println("다시하자");
 
         System.out.println("이번엔 되겠지");
+
+        System.out.println("ddd");
     }
 }
