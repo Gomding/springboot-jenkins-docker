@@ -13,5 +13,7 @@ public class JenkinsRunner implements ApplicationRunner {
         System.out.println("한번 일할거임");
         System.out.println("두번 일할거임");
         System.out.println("세번 일할거임");
+
+        System.out.println("새로운 버전 SNAPSHOT-1.0.1 도 배포했다고");
     }
 }
