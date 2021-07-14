@@ -20,5 +20,7 @@ public class JenkinsRunner implements ApplicationRunner {
         System.out.println("이번엔 되겠지");
 
         System.out.println("ddd");
+
+        System.out.println("PR만 쏴도 머지가 된다고?");
     }
 }
