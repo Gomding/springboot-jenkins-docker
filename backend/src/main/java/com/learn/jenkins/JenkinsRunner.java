@@ -24,5 +24,7 @@ public class JenkinsRunner implements ApplicationRunner {
         System.out.println("PR만 쏴도 머지가 된다고?");
 
         System.out.println("이번엔 PR 쏘면 해줄지도?");
+
+        System.out.println("zm");
     }
 }
